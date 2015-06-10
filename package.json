@@ -1,0 +1,28 @@
+{
+  "name": "pixi-test",
+  "version": "0.0.0",
+  "description": "Pixi JS First Steps Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MidasGames/pixi-test.git"
+  },
+  "keywords": [
+    "pixi",
+    "pixijs",
+    "js",
+    "javascript",
+    "node"
+  ],
+  "author": "Midas Games",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/MidasGames/pixi-test/issues"
+  },
+  "dependencies": {
+    "pixi.js": "git://github.com/GoodBoyDigital/pixi.js"
+  }
+}
